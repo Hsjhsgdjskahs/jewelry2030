@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Bayani Silver",
+  "description": "An elegant and modern e-commerce web application for Bayani Silver, a luxury silverware shop. It features product pages, an admin panel, and AI-powered content generation and product recommendations using the Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
